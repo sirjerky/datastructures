@@ -1,0 +1,26 @@
+{
+  "name": "ds_a",
+  "version": "1.0.0",
+  "description": "Work done for the book assignments",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirjerky/datastructures.git"
+  },
+  "author": "Adam Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirjerky/datastructures/issues"
+  },
+  "homepage": "https://github.com/sirjerky/datastructures",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
